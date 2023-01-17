@@ -1,7 +1,3 @@
-# This script will detect faces via your webcam.
-# This detection is perform in real time
-# Tested with OpenCV3
-
 import cv2
 import time
 import numpy as np
